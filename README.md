@@ -28,6 +28,6 @@ End-to-end data analytics project on ~1.05M U.S. domestic flight records (Q1 201
 - Late-aircraft and airline (carrier-controlled) causes drive the most delay minutes.
 - Weather is the leading cause of cancellations; security delays are negligible.
 - Traffic concentrates on a few corridors (JFK–LAX, LAX–SFO) and hubs (ATL, ORD, DFW).
-- 
+  
 
 ## Repository Structure
