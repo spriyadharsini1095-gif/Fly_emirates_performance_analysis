@@ -31,3 +31,8 @@ End-to-end data analytics project on ~1.05M U.S. domestic flight records (Q1 201
   
 
 ## Repository Structure
+├── sql/          # MySQL cleaning & transformation scripts
+├── dashboard/    # Power BI .pbix file
+├── report/       # Full project report
+└── screenshots/  # Dashboard imagespage.
+Want me to adjust the README to match your exact filenames, or add the image-embed lines once you know what you'll name the screenshots?
